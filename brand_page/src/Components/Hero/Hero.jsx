@@ -12,7 +12,7 @@ const Hero = () => {
         </p>
         <div className="hero-btn">
           <button>Shop Now</button>
-          <button>category</button>
+          <button className="secondary-btn">category</button>
         </div>
         <div className="shopping">
           <p>Also Available on</p>
